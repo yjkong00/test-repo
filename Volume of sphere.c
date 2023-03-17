@@ -1,5 +1,6 @@
 #YaejinKong_201900402_Department of Brazilian Studies
 #20000615
+#The Number Of Family: 4
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
