@@ -1,4 +1,6 @@
 #YaejinKong_201900402_Department of Brazilian Studies
+#20000615
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
